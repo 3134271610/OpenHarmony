@@ -1,0 +1,36 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#f9fcfb"
+    },
+    {
+      "name": "white",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "index_backgroundColor",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "slide_selectedColor",
+      "value": "#FF4B6A"
+    },
+    {
+      "name": "body_color",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "login_button",
+      "value": "#007DFF"
+    },
+    {
+      "name": "placeholder_background",
+      "value": "#eeeeee"
+    },
+    {
+      "name": "black",
+      "value": "#000000"
+    }
+  ]
+}

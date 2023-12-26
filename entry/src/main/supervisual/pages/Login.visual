@@ -1,0 +1,252 @@
+{
+    "document": {
+        "VisualVersion": "12",
+        "type": "ETS",
+        "custom": false,
+        "path": "/entry/src/main/supervisual/pages/Login"
+    },
+    "visualModel": {
+        "dataType": "VisualModel",
+        "value": {
+            "propertyStorage": {
+                "dataType": "Map",
+                "value": {}
+            },
+            "dynamicPropertyStorage": {
+                "dataType": "Map",
+                "value": {}
+            },
+            "mediaPropertyStorage": {
+                "dataType": "Map",
+                "value": {}
+            },
+            "dynamicMediaPropertyStorage": {
+                "dataType": "Map",
+                "value": {}
+            },
+            "property": {
+                "dataType": "Map",
+                "value": {
+                    "width": "100%",
+                    "height": "100%"
+                }
+            },
+            "dynamicProperty": {
+                "dataType": "Map",
+                "value": {}
+            },
+            "children": [
+                {
+                    "dataType": "VisualModel",
+                    "value": {
+                        "propertyStorage": {
+                            "dataType": "Map",
+                            "value": {}
+                        },
+                        "dynamicPropertyStorage": {
+                            "dataType": "Map",
+                            "value": {}
+                        },
+                        "mediaPropertyStorage": {
+                            "dataType": "Map",
+                            "value": {}
+                        },
+                        "dynamicMediaPropertyStorage": {
+                            "dataType": "Map",
+                            "value": {}
+                        },
+                        "property": {
+                            "dataType": "Map",
+                            "value": {
+                                "width": "100%",
+                                "height": "50%",
+                                "justify-content-rc": "flex-start",
+                                "align-items-column": "flex-end"
+                            }
+                        },
+                        "dynamicProperty": {
+                            "dataType": "Map",
+                            "value": {}
+                        },
+                        "children": [
+                            {
+                                "dataType": "VisualModel",
+                                "value": {
+                                    "propertyStorage": {
+                                        "dataType": "Map",
+                                        "value": {}
+                                    },
+                                    "dynamicPropertyStorage": {
+                                        "dataType": "Map",
+                                        "value": {}
+                                    },
+                                    "mediaPropertyStorage": {
+                                        "dataType": "Map",
+                                        "value": {}
+                                    },
+                                    "dynamicMediaPropertyStorage": {
+                                        "dataType": "Map",
+                                        "value": {}
+                                    },
+                                    "property": {
+                                        "dataType": "Map",
+                                        "value": {
+                                            "width": "360vp",
+                                            "height": "147.86vp"
+                                        }
+                                    },
+                                    "dynamicProperty": {
+                                        "dataType": "Map",
+                                        "value": {}
+                                    },
+                                    "children": [
+                                        {
+                                            "dataType": "VisualModel",
+                                            "value": {
+                                                "propertyStorage": {
+                                                    "dataType": "Map",
+                                                    "value": {}
+                                                },
+                                                "dynamicPropertyStorage": {
+                                                    "dataType": "Map",
+                                                    "value": {}
+                                                },
+                                                "mediaPropertyStorage": {
+                                                    "dataType": "Map",
+                                                    "value": {}
+                                                },
+                                                "dynamicMediaPropertyStorage": {
+                                                    "dataType": "Map",
+                                                    "value": {}
+                                                },
+                                                "property": {
+                                                    "dataType": "Map",
+                                                    "value": {
+                                                        "width": "168vp",
+                                                        "height": "88vp",
+                                                        "left": "0vp",
+                                                        "top": "29.74vp"
+                                                    }
+                                                },
+                                                "dynamicProperty": {
+                                                    "dataType": "Map",
+                                                    "value": {}
+                                                },
+                                                "children": [],
+                                                "id": "image1",
+                                                "type": "image"
+                                            }
+                                        },
+                                        {
+                                            "dataType": "VisualModel",
+                                            "value": {
+                                                "propertyStorage": {
+                                                    "dataType": "Map",
+                                                    "value": {}
+                                                },
+                                                "dynamicPropertyStorage": {
+                                                    "dataType": "Map",
+                                                    "value": {}
+                                                },
+                                                "mediaPropertyStorage": {
+                                                    "dataType": "Map",
+                                                    "value": {}
+                                                },
+                                                "dynamicMediaPropertyStorage": {
+                                                    "dataType": "Map",
+                                                    "value": {}
+                                                },
+                                                "property": {
+                                                    "dataType": "Map",
+                                                    "value": {
+                                                        "height": "60vp",
+                                                        "width": "153.27vp",
+                                                        "font-color": "black",
+                                                        "left": "-168vp",
+                                                        "top": "-43.93vp",
+                                                        "content": "实拍图片",
+                                                        "font-size": "18fp"
+                                                    }
+                                                },
+                                                "dynamicProperty": {
+                                                    "dataType": "Map",
+                                                    "value": {}
+                                                },
+                                                "children": [],
+                                                "id": "text2",
+                                                "type": "text"
+                                            }
+                                        },
+                                        {
+                                            "dataType": "VisualModel",
+                                            "value": {
+                                                "propertyStorage": {
+                                                    "dataType": "Map",
+                                                    "value": {}
+                                                },
+                                                "dynamicPropertyStorage": {
+                                                    "dataType": "Map",
+                                                    "value": {}
+                                                },
+                                                "mediaPropertyStorage": {
+                                                    "dataType": "Map",
+                                                    "value": {}
+                                                },
+                                                "dynamicMediaPropertyStorage": {
+                                                    "dataType": "Map",
+                                                    "value": {}
+                                                },
+                                                "property": {
+                                                    "dataType": "Map",
+                                                    "value": {
+                                                        "width": "168vp",
+                                                        "height": "88vp",
+                                                        "left": "-129.27vp",
+                                                        "top": "29.74vp"
+                                                    }
+                                                },
+                                                "dynamicProperty": {
+                                                    "dataType": "Map",
+                                                    "value": {}
+                                                },
+                                                "children": [],
+                                                "id": "image2",
+                                                "type": "image"
+                                            }
+                                        }
+                                    ],
+                                    "id": "row1",
+                                    "type": "row"
+                                }
+                            }
+                        ],
+                        "id": "column1",
+                        "type": "column"
+                    }
+                }
+            ],
+            "id": "wrapper",
+            "type": "column"
+        }
+    },
+    "formData": {
+        "data": {
+            "dataType": "Map",
+            "value": {}
+        },
+        "actions": {
+            "dataType": "Map",
+            "value": {}
+        }
+    },
+    "customData": {
+        "property": {
+            "dataType": "Map",
+            "value": {}
+        },
+        "event": {
+            "dataType": "Map",
+            "value": {}
+        }
+    }
+}

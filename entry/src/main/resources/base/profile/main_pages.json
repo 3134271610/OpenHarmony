@@ -1,0 +1,21 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/Auth",
+    "pages/Login",
+    "pages/Home",
+    "pages/Welcome",
+    "pages/LoginPage",
+    "pages/view",
+    "pages/SimpleVideoPlay",
+    "pages/SimpleVideoIndex",
+    "pages/Twopage",
+    "pages/WebvideoPage",
+    "pages/redPage",
+    "pages/Phonereister",
+    "pages/JiankangPage",
+    "pages/ChoicefoodPage",
+    "pages/ZhujiaoPage",
+    "pages/BillPage"
+  ]
+}

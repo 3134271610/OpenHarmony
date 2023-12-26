@@ -1,0 +1,49 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "C:\\Users\\范志杰\\.ohos\\config\\auto_debug_Application_edu.fzj.corporatefoodordering_30086000670165068.cer",
+          "storePassword": "0000001BA5878B93C9B3C9E953E15AB2C77FB0448D305C718B853FA9982099CB2FC237988B8168244D98DA",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001B2A7184A48602EDA7777F748B8E2935E3280665C1F9AA6EE9D9036CED78B3BAC8EF112B29704477",
+          "profile": "C:\\Users\\范志杰\\.ohos\\config\\auto_debug_Application_edu.fzj.corporatefoodordering_30086000670165068.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "C:\\Users\\范志杰\\.ohos\\config\\auto_debug_Application_edu.fzj.corporatefoodordering_30086000670165068.p12"
+        }
+      }
+    ],
+    "compileSdkVersion": 9,
+    "compatibleSdkVersion": 9,
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug",
+      },
+      {
+        "name": "release"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}
