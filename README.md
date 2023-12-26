@@ -11,34 +11,33 @@ https://developer.harmonyos.com/cn/docs/documentation/doc-guides-V3/agc-harmonyo
 
 - 服务卡片
 
-  <img src=typora-user-images/image-20231226120243784.png alt="image-20231226120243784" style="zoom:33%;" />
+![image-20231226120243784.png-w'700'](typora-user-images%2Fimage-20231226120243784.png)
 
 - 登陆界面
-
-  <img src=typora-user-images\image-20231226120300963.png alt="image-20231226120300963" style="zoom: 33%;" />
+![image-20231226120300963.png](typora-user-images%2Fimage-20231226120300963.png)
 
 - 直接登录、手机号/邮箱登录
-
-  <img src=typora-user-images\image-20231226120459011.png alt="image-20231226120459011" style="zoom:33%;" /><img src="C:\Users\范志杰\AppData\Roaming\Typora\typora-user-images\image-20231226120510715.png" alt="image-20231226120510715" style="zoom:33%;" />
-
+![image-20231226120459011.png](typora-user-images%2Fimage-20231226120459011.png)
+![image-20231226120510715.png](typora-user-images%2Fimage-20231226120510715.png)
 - 点餐首页
-
-  <img src=typora-user-images\image-20231226120705305.png alt="image-20231226120705305" style="zoom:33%;" /><img src="C:\Users\范志杰\AppData\Roaming\Typora\typora-user-images\image-20231226151845375.png" alt="image-20231226151845375" style="zoom:33%;" /><img src="C:\Users\范志杰\AppData\Roaming\Typora\typora-user-images\image-20231226152359973.png" alt="image-20231226152359973" style="zoom:33%;" /><img src="C:\Users\范志杰\AppData\Roaming\Typora\typora-user-images\image-20231226152412034.png" alt="image-20231226152412034" style="zoom:33%;" /><img src="C:\Users\范志杰\AppData\Roaming\Typora\typora-user-images\image-20231226152425764.png" alt="image-20231226152425764" style="zoom:33%;" /><img src="C:\Users\范志杰\AppData\Roaming\Typora\typora-user-images\image-20231226152504382.png" alt="image-20231226152504382" style="zoom:33%;" /><img src="C:\Users\范志杰\AppData\Roaming\Typora\typora-user-images\image-20231226152518832.png" alt="image-20231226152518832" style="zoom:33%;" />
+![image-20231226120705305.png](typora-user-images%2Fimage-20231226120705305.png)
+![image-20231226151845375.png](typora-user-images%2Fimage-20231226151845375.png)
+![image-20231226152359973.png](typora-user-images%2Fimage-20231226152359973.png)
+![image-20231226152412034.png](typora-user-images%2Fimage-20231226152412034.png)
+![image-20231226152425764.png](typora-user-images%2Fimage-20231226152425764.png)
+![image-20231226152504382.png](typora-user-images%2Fimage-20231226152504382.png)
+![image-20231226152518832.png](typora-user-images%2Fimage-20231226152518832.png)
 
 - 支付界面
-
-  <img src=typora-user-images\image-20231226152542020.png alt="image-20231226152542020" style="zoom:33%;" />
+![image-20231226120730140.png](typora-user-images%2Fimage-20231226120730140.png)
 
 - 通知
-
-  <img src=typora-user-images\image-20231226152557683.png alt="image-20231226152557683" style="zoom:33%;" />
+![image-20231226152557683.png](typora-user-images%2Fimage-20231226152557683.png)
 
 - 我的
-
-<img src=typora-user-images\image-20231226120754248.png alt="image-20231226120754248" style="zoom:33%;" /><img src="C:\Users\范志杰\AppData\Roaming\Typora\typora-user-images\image-20231226152612753.png" alt="image-20231226152612753" style="zoom:33%;" /><img src="C:\Users\范志杰\AppData\Roaming\Typora\typora-user-images\image-20231226152623062.png" alt="image-20231226152623062" style="zoom: 33%;" />
-
-
-
+![image-20231226120754248.png](typora-user-images%2Fimage-20231226120754248.png)
+![image-20231226152612753.png](typora-user-images%2Fimage-20231226152612753.png)
+![image-20231226152623062.png](typora-user-images%2Fimage-20231226152623062.png)
 #### 2.设计OpenHarmony技术特性
 
 - Ark UI和高代码开发
@@ -85,11 +84,11 @@ git clone https://gitee.com/fanzhijie123/harmonyfzj
 
 - 配置应用签名信息，点击**File > Project Structure** > **Project > Signing Configs**界面勾选“**Automatically generate signing**”，等待自动签名完成即可，点击“**OK**”。如下图所示：
 
-  ![运行](media/sign.png)
+  !
 
-- [安装应用](https://gitee.com/openharmony/docs/blob/update_master_0323/zh-cn/application-dev/quick-start/installing-openharmony-app.md)  识别到设备后点击![img](media/run.png)，或使用默认快捷键Shift+F10（macOS为Control+R)运行应用。
+- [安装应用](https://gitee.com/openharmony/docs/blob/update_master_0323/zh-cn/application-dev/quick-start/installing-openharmony-app.md)  识别到设备后点击!，或使用默认快捷键Shift+F10（macOS为Control+R)运行应用。
 
-  ![运行](media/install.png)
+  ![运行]
 
 - 如果IDE没有识别到设备就需要通过命令安装，如下
 
@@ -280,6 +279,8 @@ git clone https://gitee.com/fanzhijie123/harmonyfzj
 │              string.json         
 ```
 
+![输入图片说明](%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
+![输入图片说明](typora-user-images/%E8%AE%A2%E9%A4%90app.jpg)
 #### 2.日志查看方法
 
 ```
