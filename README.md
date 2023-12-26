@@ -11,31 +11,31 @@ https://developer.harmonyos.com/cn/docs/documentation/doc-guides-V3/agc-harmonyo
 
 - 服务卡片
 
-  <img src="C:\Users\范志杰\AppData\Roaming\Typora\typora-user-images\image-20231226120243784.png" alt="image-20231226120243784" style="zoom:33%;" />
+  <img src=typora-user-images/image-20231226120243784.png alt="image-20231226120243784" style="zoom:33%;" />
 
 - 登陆界面
 
-  <img src="C:\Users\范志杰\AppData\Roaming\Typora\typora-user-images\image-20231226120300963.png" alt="image-20231226120300963" style="zoom: 33%;" />
+  <img src=typora-user-images\image-20231226120300963.png alt="image-20231226120300963" style="zoom: 33%;" />
 
 - 直接登录、手机号/邮箱登录
 
-  <img src="C:\Users\范志杰\AppData\Roaming\Typora\typora-user-images\image-20231226120459011.png" alt="image-20231226120459011" style="zoom:33%;" /><img src="C:\Users\范志杰\AppData\Roaming\Typora\typora-user-images\image-20231226120510715.png" alt="image-20231226120510715" style="zoom:33%;" />
+  <img src=typora-user-images\image-20231226120459011.png alt="image-20231226120459011" style="zoom:33%;" /><img src="C:\Users\范志杰\AppData\Roaming\Typora\typora-user-images\image-20231226120510715.png" alt="image-20231226120510715" style="zoom:33%;" />
 
 - 点餐首页
 
-  <img src="C:\Users\范志杰\AppData\Roaming\Typora\typora-user-images\image-20231226120705305.png" alt="image-20231226120705305" style="zoom:33%;" /><img src="C:\Users\范志杰\AppData\Roaming\Typora\typora-user-images\image-20231226151845375.png" alt="image-20231226151845375" style="zoom:33%;" /><img src="C:\Users\范志杰\AppData\Roaming\Typora\typora-user-images\image-20231226152359973.png" alt="image-20231226152359973" style="zoom:33%;" /><img src="C:\Users\范志杰\AppData\Roaming\Typora\typora-user-images\image-20231226152412034.png" alt="image-20231226152412034" style="zoom:33%;" /><img src="C:\Users\范志杰\AppData\Roaming\Typora\typora-user-images\image-20231226152425764.png" alt="image-20231226152425764" style="zoom:33%;" /><img src="C:\Users\范志杰\AppData\Roaming\Typora\typora-user-images\image-20231226152504382.png" alt="image-20231226152504382" style="zoom:33%;" /><img src="C:\Users\范志杰\AppData\Roaming\Typora\typora-user-images\image-20231226152518832.png" alt="image-20231226152518832" style="zoom:33%;" />
+  <img src=typora-user-images\image-20231226120705305.png alt="image-20231226120705305" style="zoom:33%;" /><img src="C:\Users\范志杰\AppData\Roaming\Typora\typora-user-images\image-20231226151845375.png" alt="image-20231226151845375" style="zoom:33%;" /><img src="C:\Users\范志杰\AppData\Roaming\Typora\typora-user-images\image-20231226152359973.png" alt="image-20231226152359973" style="zoom:33%;" /><img src="C:\Users\范志杰\AppData\Roaming\Typora\typora-user-images\image-20231226152412034.png" alt="image-20231226152412034" style="zoom:33%;" /><img src="C:\Users\范志杰\AppData\Roaming\Typora\typora-user-images\image-20231226152425764.png" alt="image-20231226152425764" style="zoom:33%;" /><img src="C:\Users\范志杰\AppData\Roaming\Typora\typora-user-images\image-20231226152504382.png" alt="image-20231226152504382" style="zoom:33%;" /><img src="C:\Users\范志杰\AppData\Roaming\Typora\typora-user-images\image-20231226152518832.png" alt="image-20231226152518832" style="zoom:33%;" />
 
 - 支付界面
 
-  <img src="C:\Users\范志杰\AppData\Roaming\Typora\typora-user-images\image-20231226152542020.png" alt="image-20231226152542020" style="zoom:33%;" />
+  <img src=typora-user-images\image-20231226152542020.png alt="image-20231226152542020" style="zoom:33%;" />
 
 - 通知
 
-  <img src="C:\Users\范志杰\AppData\Roaming\Typora\typora-user-images\image-20231226152557683.png" alt="image-20231226152557683" style="zoom:33%;" />
+  <img src=typora-user-images\image-20231226152557683.png alt="image-20231226152557683" style="zoom:33%;" />
 
 - 我的
 
-<img src="C:\Users\范志杰\AppData\Roaming\Typora\typora-user-images\image-20231226120754248.png" alt="image-20231226120754248" style="zoom:33%;" /><img src="C:\Users\范志杰\AppData\Roaming\Typora\typora-user-images\image-20231226152612753.png" alt="image-20231226152612753" style="zoom:33%;" /><img src="C:\Users\范志杰\AppData\Roaming\Typora\typora-user-images\image-20231226152623062.png" alt="image-20231226152623062" style="zoom: 33%;" />
+<img src=typora-user-images\image-20231226120754248.png alt="image-20231226120754248" style="zoom:33%;" /><img src="C:\Users\范志杰\AppData\Roaming\Typora\typora-user-images\image-20231226152612753.png" alt="image-20231226152612753" style="zoom:33%;" /><img src="C:\Users\范志杰\AppData\Roaming\Typora\typora-user-images\image-20231226152623062.png" alt="image-20231226152623062" style="zoom: 33%;" />
 
 
 
@@ -74,7 +74,7 @@ OpenHarmony 4.0
 1）git下载
 
 ```
-git clone https://gitee.com/openharmony-sig/knowledge_demo_shopping.git --depth=1
+git clone https://gitee.com/fanzhijie123/harmonyfzj
 ```
 
 2）项目导入
